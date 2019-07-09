@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "kepa and wailana project",
+"productVersion": "0.1",
+"dataUrl": "2528f7bde432757c119da7aa8e2e4cea.unityweb",
+"wasmCodeUrl": "1e72e8144d11674d87411dfcfad6d445.unityweb",
+"wasmFrameworkUrl": "67732d2e3e3b122b76c5d869f4caf3fa.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
